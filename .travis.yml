@@ -1,5 +1,5 @@
 target: erlang
-script: "make base info"
+script: "make install"
 notifications:
   disabled: true
 env:
