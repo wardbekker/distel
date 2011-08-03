@@ -1,5 +1,5 @@
 target: erlang
-script: "make install"
+script: "sudo make install"
 notifications:
   disabled: true
 env:
