@@ -1,4 +1,5 @@
 target: erlang
+script: "sudo make install"
 notifications:
   email: false
 otp_release:
