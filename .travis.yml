@@ -1,4 +1,4 @@
-target: erlang
+language: erlang
 script: "sudo make install"
 notifications:
   email: false
